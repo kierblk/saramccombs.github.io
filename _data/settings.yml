@@ -3,6 +3,7 @@ basic_settings:
   site_tagline: Aspiring Full-Stack Developer
   favicon_image: /images/favicon-1.png
 
+
 header_settings:
   logo_image: 
   logo_width: 200
