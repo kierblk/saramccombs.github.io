@@ -14,7 +14,7 @@ menu_settings:
     - title: 'Blog'
       url: '/'
     - title: 'Skills'
-      url: '/skills/'  
+      url: '/skills'  
     - title: 'Projects'
       url: '/projects/'
     - title: 'Publications'
