@@ -1,11 +1,11 @@
 ---
 title: A Little More About Me...
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+subtitle: 
+description: 
 featured_image: /images/7.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg
+![](/images/demo/demo-landscape.jpg)
 ## Features
 
 Journal is packed with powerful features to showcase your work:
@@ -27,8 +27,3 @@ Journal is packed with powerful features to showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-[//]: # (## Get Index)
-
-[//]: # (Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.)
-
-[//]: # (<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>)
