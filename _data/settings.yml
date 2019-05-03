@@ -1,11 +1,11 @@
 basic_settings:
-  site_title: Sara McCombs' Portfolio
-  site_tagline:
+  site_title: Sara McCombs
+  site_tagline: Freelance Writer & Aspiring Full-Stack Developer
   favicon_image: /images/favicon-1.png
 
 
 header_settings:
-  logo_image: /images/sara-logo-2.png
+  logo_image:
   logo_width: 200
   overlay_opacity: 0.7
 
