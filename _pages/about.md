@@ -2,7 +2,7 @@
 title: A Little More About Me...
 subtitle: 
 description: 
-featured_image: /images/7.jpg
+featured_image: /images/Family.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
