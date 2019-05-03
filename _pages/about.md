@@ -28,8 +28,8 @@ Journal is packed with powerful features to showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-## Get Index
+[//]: # (## Get Index)
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
+[//]: # (Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.)
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+[//]: # (<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>)
