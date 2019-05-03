@@ -1,8 +1,8 @@
 ---
 title: A Little More About Me...
-subtitle: 
+subtitle: "The future belongs to those who believe in the beauty of their dreams." -Eleanor Roosevelt
 description: 
-featured_image: /images/Family.jpg
+featured_image: /images/Family.jpeg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
