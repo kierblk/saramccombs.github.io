@@ -2,11 +2,10 @@
 title: A Little More About Me...
 subtitle: A stunning personal blog Jekyll theme with an image-focused design.
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/6.jpg
+featured_image: /images/7.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
+![](/images/demo/demo-landscape.jpg
 ## Features
 
 Journal is packed with powerful features to showcase your work:
