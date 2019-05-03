@@ -1,6 +1,6 @@
 ---
 title: A Little More About Me...
-subtitle: "The future belongs to those who believe in the beauty of their dreams." -Eleanor Roosevelt
+subtitle: The future belongs to those who believe in the beauty of their dreams. -Eleanor Roosevelt
 description: 
 featured_image: /images/Family.jpeg
 ---
