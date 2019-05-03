@@ -11,11 +11,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Blog Articles'
+    - title: 'Blog'
       url: '/'
+    - title: 'Skills'
+      url: '/skills/'  
     - title: 'Projects'
       url: '/projects/'
-    - title: 'About'
+    - title: 'Publications'
+      url: '/publications/'  
+    - title: 'About Me'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
