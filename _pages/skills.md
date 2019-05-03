@@ -2,7 +2,7 @@
 title: Skills
 subtitle: A stunning personal blog Jekyll theme with an image-focused design.
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/3.jpg
+featured_image: /images/4.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
