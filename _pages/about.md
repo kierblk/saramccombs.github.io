@@ -27,5 +27,3 @@ Journal is packed with powerful features to showcase your work:
 * Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
 * Works with GitHub Pages
 * Updated and supported by the developers
-
-{% include contact-form.html %}
