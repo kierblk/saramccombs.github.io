@@ -7,11 +7,6 @@ featured_image: /images/Family.jpg
 
 ![](/images/big-basin-2019.jpg)
 
-Big Basin Redwoods State Park - Santa Cruz County, CA USA
-March 2019, photo credit Brandon McCombs
-
-
-
 <div class="gallery" data-columns="3">
 	<img src="/images/sara-brandon-19.jpg">
 	<img src="/images/sara-brandon-2-2019.JPG">
