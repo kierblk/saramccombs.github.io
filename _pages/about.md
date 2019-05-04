@@ -8,10 +8,10 @@ featured_image: /images/Family.jpg
 ![](/images/demo/demo-landscape.jpg)
 
 
-<div class="gallery" data-columns="4">
-	<img src="/images/sara-brandon-2019.jpg">
-	<img src="/images/sara-brandon-2-2019.jpg">
-	<img src="/images/sara-lorelei-2016.jpg">
+<div class="gallery" data-columns="3">
+	<img src="/images/sara-brandon-2019.JPG">
+	<img src="/images/sara-brandon-2-2019.JPG">
+	<img src="/images/sara-lorelei-2016.JPG">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
