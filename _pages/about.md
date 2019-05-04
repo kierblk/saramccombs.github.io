@@ -7,6 +7,14 @@ featured_image: /images/Family.jpg
 
 ![](/images/demo/demo-landscape.jpg)
 
+
+<div class="gallery" data-columns="4">
+	<img src="/images/sara-brandon-2019.jpg">
+	<img src="/images/sara-brandon-2-2019.jpg">
+	<img src="/images/sara-lorelei-2016.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+
 ## Features
 
 Journal is packed with powerful features to showcase your work:
