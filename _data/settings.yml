@@ -21,8 +21,6 @@ menu_settings:
       url: '/publications/'  
     - title: 'About Me'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   grid_spacing: 10

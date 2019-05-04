@@ -6,6 +6,7 @@ featured_image: /images/Family.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
+
 ## Features
 
 Journal is packed with powerful features to showcase your work:
@@ -27,3 +28,4 @@ Journal is packed with powerful features to showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
+{% include contact-form.html %}
