@@ -9,7 +9,7 @@ featured_image: /images/Family.jpg
 
 <div class="gallery" data-columns="3">
 	<img src="/images/sara-brandon-19.jpg">
-	<img src="/images/sara-brandon-2-2019.JPG">
+	<img src="/images/sara-brandon-2-19.jpg">
 	<img src="/images/sara-lorelei-2016.JPG">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
