@@ -60,6 +60,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/sara-mccombs/'
+  codepen_url: 'https://codepen.io/saramccombs/'
 
 color_settings:
   background_color: '#ffffff'
