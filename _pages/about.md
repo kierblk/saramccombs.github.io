@@ -7,7 +7,7 @@ featured_image: /images/Family.jpg
 
 ![](/images/big-basin-2019.jpg)
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="4">
 	<img src="/images/sara-brandon-19.jpg">
 	<img src="/images/sara-brandon-2-19.jpg">
 	<img src="/images/sara-lorelei-2016.JPG">
