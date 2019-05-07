@@ -5,7 +5,7 @@ description:
 featured_image: /images/about/Family.jpg
 ---
 
-![](/images/big-basin-2019.jpg)
+![](/images/about/big-basin-2019.jpg)
 
 <div class="gallery" data-columns="4">
 	<img src="/images/about/sara-brandon-19.jpg">
