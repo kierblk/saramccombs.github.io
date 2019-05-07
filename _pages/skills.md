@@ -9,7 +9,7 @@ featured_image: /images/4.jpg
 
 ## Skills
 
-* Beautiful, minimal design
+
 
 
 ## Education
