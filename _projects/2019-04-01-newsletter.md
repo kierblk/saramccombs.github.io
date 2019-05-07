@@ -18,7 +18,5 @@ This project was developed jointly over the course of a week.
 
 We both intend to improve/ polish this code as time permits. 
 
-## Links
-
 
 <a href="https://codepen.io/saramccombs/live/bJKPmK" class="button button--large">View the Live Version</a> <a href="https://codepen.io/saramccombs/pres/bJKPmK" class="button button--large">View the Code</a>
