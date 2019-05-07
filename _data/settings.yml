@@ -13,14 +13,14 @@ menu_settings:
   menu_items:
     - title: 'Blog'
       url: '/'
-    - title: 'Skills & Education'
-      url: '/skills'  
     - title: 'Projects'
       url: '/projects/'
     - title: 'Publications'
       url: '/publications/'  
     - title: 'About Me'
       url: '/about'
+    - title: 'Skills & Education'
+      url: '/skills'     
     - title: 'Contact Me'
       url: '/contact'  
 
