@@ -14,9 +14,9 @@ featured_image: /images/Family.jpg
 	<img src="/images/sara-brandon-2016.jpg">
 </div>
 
-## Features
+Sara McCombs is a freelance writer, aspiring full-stack developer, business owner, and dedicated mother.
 
-Journal is packed with powerful features to showcase your work:
+After obtaining two degrees in agriculture, Sara has followed her interests and pursued every opportunity to learn and grow.
 
-* Beautiful, minimal design
+When she’s not chasing her daughter around outside, she enjoys a good book, an Americano, and the company of her husband and dogs.
 
