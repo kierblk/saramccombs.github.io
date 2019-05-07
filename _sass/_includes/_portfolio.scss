@@ -68,6 +68,16 @@
 	background-repeat: no-repeat;
 }
 
+.portfolio-item__sm-image {
+	display: block;
+	width: 50%;
+	height: 0;
+	padding-bottom: 56.25%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
 .portfolio-item__content {
 	position: absolute;
 	top: 0;
