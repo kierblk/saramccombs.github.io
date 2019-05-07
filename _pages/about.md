@@ -12,7 +12,7 @@ featured_image: /images/7.jpg
 	<img src="/images/about/sara-brandon-2-19.jpg">
 	<img src="/images/about/sara-lorelei-2016.JPG">
 	<img src="/images/about/sara-brandon-2016.jpg">
-	<img src="/images/about/Family.jpg>
+	<img src="/images/about/Family.jpg">
 </div>
 
 Sara McCombs is a freelance writer, aspiring full-stack developer, business owner, and dedicated mother.
