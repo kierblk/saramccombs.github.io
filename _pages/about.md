@@ -21,7 +21,7 @@ After obtaining two degrees in agriculture, Sara has followed her interests and 
 
 When she’s not chasing her daughter around outside, she enjoys a good book, an Americano, and the company of her husband and dogs.
 
-<div class="gallery" data-columns="7">
+<div class="gallery" data-columns="6">
 	<img src="/images/about/dogs/ella-5.JPG">
 	<img src="/images/about/dogs/lorelei-6.JPG">
 	<img src="/images/about/dogs/qbert-3.JPG">
