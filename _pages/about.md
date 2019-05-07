@@ -21,8 +21,13 @@ After obtaining two degrees in agriculture, Sara has followed her interests and 
 
 When she’s not chasing her daughter around outside, she enjoys a good book, an Americano, and the company of her husband and dogs.
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="4">
 	<img src="/images/about/dogs/lorelei-6.JPG">
+	<img src="/images/about/dogs/tumblr-1.JPG">
+	<img src="/images/about/dogs/lorelei-2.JPG">
 	<img src="/images/about/dogs/t-l-2.jpg">
 	<img src="/images/about/dogs/tumblr-4.JPG">
+	<img src="/images/about/dogs/lorelei-4.JPG">
+	<img src="/images/about/dogs/tumblr-2.JPG">
+	<img src="/images/about/dogs/lorelei.jpg">
 </div>
