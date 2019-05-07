@@ -1,6 +1,6 @@
 ---
 title: 'DG Energy - eCommerce Store'
-date: 2018-02-00 00:00:00
+date: 2018-02-01 00:00:00
 featured_image: '/images/Projects/dg/dg-energy-site.png'
 excerpt: A complete eCommerce store setup, hosted with Big Commerce.
 ---
