@@ -1,13 +1,14 @@
 ---
 title: 'DG Energy - eCommerce Store'
-subtitle: 'A complete eCommerce store setup'
+subtitle: 'A complete eCommerce store setup, hosted with Big Commerce.'
 date: 2018-02-01 00:00:00
-featured_image: '/images/7.jpg'
+featured_image: '/images/projects/dg-energy-site.png'
 ---
 
-![](/images/projects/dg-energy-site.jpg)
+![](/images/projects/dg-energy-site.png)
 
 ## DG Energy eCommerce Store, Dupill Group 
+
 
 An independent consultant, tasked with developing the official DG Energy eCommerce store. 
 
