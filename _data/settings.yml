@@ -11,10 +11,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Writing'
+    - title: 'Latest Projects'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
     - title: 'About Me'
       url: '/about'
     - title: 'Skills & Education'

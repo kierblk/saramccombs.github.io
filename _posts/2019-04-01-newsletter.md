@@ -1,8 +1,8 @@
 ---
 title: 'The Modern Mom'
-subtitle: 'A collaboration project dedicated to developing an HTML email newsletter. '
-date: 2018-02-01 00:00:00
+date: 2019-04-01 00:00:00
 featured_image: '/images/Projects/newsletter/newsletter-feature.png'
+excerpt: A collaboration project dedicated to developing an HTML email newsletter.
 ---
 
 <div class="gallery" data-columns="4">
