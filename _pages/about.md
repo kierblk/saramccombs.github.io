@@ -2,16 +2,17 @@
 title: A Little More About Me...
 subtitle: The future belongs to those who believe in the beauty of their dreams. -Eleanor Roosevelt
 description: 
-featured_image: /images/about/Family.jpg
+featured_image: /images/7.jpg
 ---
 
 ![](/images/about/big-basin-2019.jpg)
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="5">
 	<img src="/images/about/sara-brandon-19.jpg">
 	<img src="/images/about/sara-brandon-2-19.jpg">
 	<img src="/images/about/sara-lorelei-2016.JPG">
 	<img src="/images/about/sara-brandon-2016.jpg">
+	<img src="/images/about/Family.jpg>
 </div>
 
 Sara McCombs is a freelance writer, aspiring full-stack developer, business owner, and dedicated mother.
@@ -20,3 +21,7 @@ After obtaining two degrees in agriculture, Sara has followed her interests and 
 
 When she’s not chasing her daughter around outside, she enjoys a good book, an Americano, and the company of her husband and dogs.
 
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
