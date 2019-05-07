@@ -1,5 +1,5 @@
 ---
-title: 'The Modern Mom - Email Newsletter'
+title: 'The Modern Mom'
 subtitle: 'A collaboration project dedicated to developing an HTML email newsletter. '
 date: 2018-02-01 00:00:00
 featured_image: '/images/7.jpg'
