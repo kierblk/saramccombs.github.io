@@ -22,7 +22,5 @@ Communication with the client was essential in delivering the final product.
 Ongoing responsibility for updates and content changes, as the client requests.
 
 
-## Links
-
 
 <a href="http://dg-energy9.mybigcommerce.com/" class="button button--large">DG Energy - eCommerce Store</a> 
