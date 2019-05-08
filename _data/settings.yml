@@ -12,9 +12,9 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Latest Projects'
-      url: '/latest'
-    - title: 'About Me'
       url: '/'
+    - title: 'About Me'
+      url: '/about'
     - title: 'Skills & Education'
       url: '/skills'     
     - title: 'Contact Me'
