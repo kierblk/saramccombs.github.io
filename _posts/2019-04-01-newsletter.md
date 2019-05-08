@@ -1,7 +1,7 @@
 ---
 title: 'The Modern Mom'
 date: 2019-04-01 00:00:00
-featured_image: '/images/Projects/newsletter/newsletter-feature-2.png'
+featured_image: '/images/Projects/newsletter/newsletter-feature-sm.png'
 excerpt: A collaboration project dedicated to developing an HTML email newsletter.
 ---
 
