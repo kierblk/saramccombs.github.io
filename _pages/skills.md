@@ -5,18 +5,20 @@ description:
 featured_image: /images/7.jpg
 ---
 
-## Languages
+
+
+# Languages
 * HTML
 * CSS
 * Ruby
 
-## Concepts 
+# Concepts 
 * Version Control
 
-## Tools
+# Tools
 * Visual Studio Code
 
-## Certifications & Degrees
+# Certifications & Degrees
 
 * West Virginia University - Bachelor of Science of Agriculture 2005
 * West Virginia University - Master of Agriculture 2011
