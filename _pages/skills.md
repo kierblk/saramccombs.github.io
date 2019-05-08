@@ -1,18 +1,22 @@
 ---
 title: Skills & Education
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+subtitle: 
+description:
 featured_image: /images/7.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+## Languages
+* HTML
+* CSS
+* Ruby
 
-## Skills
+## Concepts 
+* Version Control
 
+## Tools
+* Visual Studio Code
 
-
-
-## Education
+## Certifications & Degrees
 
 * West Virginia University - Bachelor of Science of Agriculture 2005
 * West Virginia University - Master of Agriculture 2011
