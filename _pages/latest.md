@@ -1,0 +1,68 @@
+---
+layout: default
+title: Latest Projects
+subtitle: Here's what I have been working on lately...
+description: Sara McCombs' Latest Projects
+featured_image: /images/7.jpg
+---
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+	<hr />	
+
+</section>
+
+<section class="blog single">
+
+	<div class="wrap">
+
+		{% for post in paginator.posts %}
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
+				<h3 class="blog-post__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+				<p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
+			</div>
+
+			{% if post.featured_image %}
+			<a href="{{ post.url }}" class="blog-post__image" style="background-image: url({{ post.featured_image  }});"></a>
+			{% endif %}
+
+			<div class="blog-post__content">
+				<p>{{ post.excerpt }}</p>
+				<p><a href="{{ post.url }}" class="button">Read More</a>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
+
+{% if paginator.total_pages > 1 %}
+
+<section class="pagination">
+
+	{% if paginator.previous_page %}
+	<div class="pagination__prev">
+		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button button--large"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
+	</div>
+	{% endif %}
+	{% if paginator.next_page %}
+	<div class="pagination__next">
+		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button button--large"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+	</div>
+	{% endif %}
+
+</section>
+
+{% endif %}
