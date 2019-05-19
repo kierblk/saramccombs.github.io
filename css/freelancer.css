@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat';
+  font-family: 'Shadows Into Light', cursive;
 }
 
 hr.star-light,
@@ -49,7 +49,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18BC9C;
+  background-color: #42C8AE;
 }
 
 hr.star-dark {
@@ -327,7 +327,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #4E516A;
   color: #fff;
 }
 
@@ -348,11 +348,12 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: #42C8AE !important;
 }
 
 .bg-secondary {
-  background-color: #2C3E50 !important;
+  /* Previous color: #2C3E50 */
+  background-color: #4E516A !important;
 }
 
 .text-primary {
