@@ -383,3 +383,13 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+.skills {
+  margin-top: 20px;
+  display: flex;
+
+}
+
+.skills-item {
+  flex-direction: row;
+}
