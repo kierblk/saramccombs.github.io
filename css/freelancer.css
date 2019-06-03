@@ -393,3 +393,12 @@ a:focus, a:hover, a:active {
 .skills-item {
   flex-direction: row;
 }
+
+.card-img-top-margin {
+  margin-bottom: 20px;
+}
+
+.card-title-margin, .card-text-margin {
+  margin-left: 10px;
+  margin-right: 10px;
+}
