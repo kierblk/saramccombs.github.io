@@ -403,8 +403,16 @@ a:focus, a:hover, a:active {
   margin-right: 10px;
 }
 
+.card-title-center {
+  text-align: center;
+}
+
 .icon-style {
   padding: 3px;
   font-size: 2em;
   color: #525252;
+}
+
+.text-size {
+  font-size: 2.5em;
 }
