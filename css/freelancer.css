@@ -402,3 +402,9 @@ a:focus, a:hover, a:active {
   margin-left: 10px;
   margin-right: 10px;
 }
+
+.icon-style {
+  padding: 3px;
+  font-size: 2em;
+  color: #525252;
+}
