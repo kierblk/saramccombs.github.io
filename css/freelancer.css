@@ -416,3 +416,9 @@ a:focus, a:hover, a:active {
 .text-size {
   font-size: 2.5em;
 }
+
+.summary {
+  margin-top: 2em;
+  font-family: 'Neucha', cursive;
+  color: #B2FF33;
+}
