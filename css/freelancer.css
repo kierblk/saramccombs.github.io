@@ -438,3 +438,18 @@ a:focus, a:hover, a:active {
 .neucha-font {
   font-family: 'Neucha', cursive;
 }
+
+.btn-resume {
+  padding: 1rem 1.75rem;
+  font-size: 1.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  background-color: #4E516A;
+  border-radius: 5px;
+}
+
+.margin-top-bottom {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
