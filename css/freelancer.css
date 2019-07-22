@@ -394,8 +394,20 @@ a:focus, a:hover, a:active {
   flex-direction: row;
 }
 
+.card-img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
 .card-img-top-margin {
   margin-bottom: 20px;
+}
+
+.card-img-top-margin2 {
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .card-title-margin, .card-text-margin {
@@ -420,5 +432,9 @@ a:focus, a:hover, a:active {
 .summary {
   margin-top: 2em;
   font-family: 'Neucha', cursive;
-  color: #B2FF33;
+  /* color: #B2FF33; */
+}
+
+.neucha-font {
+  font-family: 'Neucha', cursive;
 }
