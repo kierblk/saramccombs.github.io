@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import aboutImg from '../Assets/Images/about.png';
+import { faAccessibleIcon, faGithub, faDev, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import aboutImg from '../Assets/Images/Sara-1.png';
 
 class About extends Component {
     render() {
@@ -10,14 +12,21 @@ class About extends Component {
                         <div className="col-xl-6 col-lg-6 d-xl-flex d-lg-flex d-block align-items-center">
                             <div className="hx-about-content">
                                 <div className="hx-site-title">
-                                    <span>Expert Web Developer & Designer</span>
                                     <h2>About Me</h2>
                                 </div>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum</p>
-                                <p>There isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary you need to be sure</p>
+                                <p>I am a disabled software engineer with passions not only for solving intriguing problems but also for designing a better future for myself.</p>
+
+                                <p>My background in agricultural outreach and research helps me understand exactly how software can empower and change the lives of even the most remote communities. It has also fostered some "MacGyver" problem-solving skills.</p>
+
+                                <p>I write blogs to share with others what I've learned, support and moderate online communities, and passionately advocate for diversity, inclusion, and accessibility.</p>
+
+                                <p>When not chasing my daughter around outside, I enjoy a good book -- or seven, an Americano, and the company of my husband and dogs.</p>
                                 
                                 <div className="btns">
-                                    <a href="#" className="theme-btn">Download CV</a>
+                                    <a href="#" className="theme-btn"><FontAwesomeIcon icon={faLinkedin} size="1x"/></a>
+                                    <a href="#" className="theme-btn"><FontAwesomeIcon icon={faTwitter} size="1x"/></a>
+                                    <a href="#" className="theme-btn"><FontAwesomeIcon icon={faGithub} size="1x"/></a>
+                                    <a href="#" className="theme-btn"><FontAwesomeIcon icon={faDev} size="1x"/></a>
                                 </div>
                             </div>
                         </div>

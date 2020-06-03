@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { faFacebook, faAccessibleIcon, faFacebookF, faTwitter, faInstagram, faPinterest, faPinterestP } from '@fortawesome/free-brands-svg-icons';
+import { faAccessibleIcon, faGithub, faTwitter, faLinkedin, faDev } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Slides from '../Assets/Images/tudor-baciu-vc3iVL_znJ8-unsplash-me2.jpg';
 
@@ -29,12 +29,12 @@ class Banner extends Component {
                         </div>
                     </div>
                 </div>
-                <div className="copy"><p>Creative Designer And Developer</p></div>
+                <div className="copy"><p>Sara McCombs - Software Engineer</p></div>
                 <div className="social-links">
                     <ul>
                         <li>
                             <a href="#">
-                                <FontAwesomeIcon icon={faFacebookF} />
+                                <FontAwesomeIcon icon={faLinkedin} />
                             </a>
                         </li>
                         <li>
@@ -44,12 +44,12 @@ class Banner extends Component {
                         </li>
                         <li>
                             <a href="#">
-                                <FontAwesomeIcon icon={faInstagram} />
+                                <FontAwesomeIcon icon={faGithub} />
                             </a>
                         </li>
                         <li>
                             <a href="#">
-                                <FontAwesomeIcon icon={faPinterestP} />
+                                <FontAwesomeIcon icon={faDev} />
                             </a>
                         </li>
                     </ul>
