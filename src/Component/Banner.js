@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { faFacebook, faAccessibleIcon, faFacebookF, faTwitter, faInstagram, faPinterest, faPinterestP } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import Slides from '../Assets/Images/slide-2.jpg';
+import Slides from '../Assets/Images/tudor-baciu-vc3iVL_znJ8-unsplash-me2.jpg';
 
 class Banner extends Component {
     render() {
@@ -16,10 +16,10 @@ class Banner extends Component {
                             <div className="row">
                                 <div className="col col-md-8 col-sm-12 slide-caption">
                                     <div className="slide-subtitle">
-                                        <h4>I Am David Miller</h4>
+                                        <h4> I Am Sara McCombs</h4>
                                     </div>
                                     <div className="slide-title">
-                                        <h2>Creative Designer</h2>
+                                        <h2>Software Engineer</h2>
                                     </div>
                                     <div className="btns">
                                         <a href="#contact" className="theme-btn go-contact-area">Contact Me</a>

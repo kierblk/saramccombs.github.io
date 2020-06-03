@@ -26,6 +26,7 @@ TABLE OF CONTENTS:
 	Fonts
 ----------------------------*/
 @import url("https://fonts.googleapis.com/css?family=Heebo:300,400,500|Oswald:300,400,500,700");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Shadows+Into+Light+Two&display=swap');
 /*--------------------------------------------------------------
 #0.1    Theme Reset Style
 --------------------------------------------------------------*/
@@ -35,7 +36,8 @@ html {
 }
 
 body {
-  font-family: "Heebo", sans-serif;
+  /* font-family: "Heebo", sans-serif; */
+  font-family: 'Open Sans', sans-serif;
   background-color: #111;
   font-size: 15px;
   font-size: 1rem;
@@ -60,7 +62,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Oswald", sans-serif;
+  /* font-family: "Oswald", sans-serif; */
+  font-family: 'Shadows Into Light Two', cursive;
   color: #2a2a2a;
 }
 
@@ -1278,7 +1281,7 @@ button:focus {
 
 .hero-style-1 .slide-title h2 {
     font-size: 70px;
-    font-size: 4.66667rem;
+    font-size: 3.66667rem;
     font-weight: bold;
     line-height: 1.2em;
     text-transform: uppercase;
