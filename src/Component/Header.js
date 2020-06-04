@@ -1,10 +1,6 @@
 import React, { Component} from 'react';
 import Logo from '../Assets/Images/logo.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import Home_1 from '../Assets/Images/home/menu.jpg';
-import Home_2 from '../Assets/Images/home/menu-2.jpg';
-import Home_3 from '../Assets/Images/home/menu-3.jpg';
-import Home_4 from '../Assets/Images/home/menu-4.jpg';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
 
 class Header extends Component {
@@ -40,23 +36,23 @@ class Header extends Component {
                             </button>
                             <ul className="nav navbar-nav">
                                 <li className="home">
-                                    <a href="../../public/index.html" onClick={() => this.setState({isOpen: false})}>
-                                        <img src={Home_1} alt=""/>
+                                    <a href="index.html" onClick={() => this.setState({isOpen: false})}>
+                                        <h1 className="text-center text-white">Home</h1>
                                     </a>
                                 </li>
                                 <li className="about">
                                     <a href="#about" onClick={() => this.setState({isOpen: false})}>
-                                        <img src={Home_2} alt=""/>
+                                        <h1 className="text-center text-white">About Me</h1>
                                     </a>
                                 </li>
                                 <li className="blog">
                                     <a href="#blog" onClick={() => this.setState({isOpen: false})}>
-                                        <img src={Home_3} alt=""/>
+                                        <h1 className="text-center text-white">Publications</h1>
                                     </a>
                                 </li>
                                 <li className="contact">
                                     <a href="#contact" onClick={() => this.setState({isOpen: false})}>
-                                        <img src={Home_4} alt=""/>
+                                        <h1 className="text-center text-white">Contact</h1>
                                     </a>
                                 </li>
                             </ul>
