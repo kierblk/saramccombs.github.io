@@ -3,7 +3,6 @@ import Logo from '../Assets/Images/logo.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Home_1 from '../Assets/Images/home/img-1.jpg';
 import Home_2 from '../Assets/Images/home/img-2.jpg';
-import Home_3 from '../Assets/Images/home/img-3.jpg';
 import Home_4 from '../Assets/Images/home/img-4.jpg';
 import Home_5 from '../Assets/Images/home/img-5.jpg';
 import Home_6 from '../Assets/Images/home/img-6.jpg';
