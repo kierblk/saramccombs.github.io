@@ -4,8 +4,8 @@ import About from './Component/About';
 import Blog from './Component/Blog';
 import Contact from './Component/Contact';
 import Footer from './Component/Footer';
-import Testimonial from './Component/Testimonial';
-import Portfolio from './Component/Portfolio';
+// import Testimonial from './Component/Testimonial';
+// import Portfolio from './Component/Portfolio';
 import Navbar from './Component/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
@@ -17,8 +17,8 @@ function App() {
             <Navbar />
             <Banner/>
             <About/>
-            <Portfolio/>
-            <Testimonial/>
+            {/* <Portfolio/> */}
+            {/* <Testimonial/> */}
             <Blog/>
             <Contact/>
             <Footer/>
