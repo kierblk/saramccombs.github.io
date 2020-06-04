@@ -25,7 +25,7 @@ class About extends Component {
                                 <div className="hx-site-title">
                                     <h2>Location</h2>
                                 </div>
-                                <p>Almost Heaven, West Virginia</p>
+                                <p><a href="https://www.youtube.com/watch?v=u1_dy1EmV6w">Almost Heaven, West Virginia</a></p>
                             </div>
                         </div>
                         <div className="col-xl-5 col-lg-5">
