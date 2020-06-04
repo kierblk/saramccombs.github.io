@@ -33,22 +33,22 @@ class Banner extends Component {
                 <div className="social-links">
                     <ul>
                         <li>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/in/sara-mccombs/" target="_blank">
                                 <FontAwesomeIcon icon={faLinkedin} />
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://twitter.com/dino_momma" target="_blank">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://github.com/saramccombs/" target="_blank">
                                 <FontAwesomeIcon icon={faGithub} />
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://dev.to/saramccombs" target="_blank">
                                 <FontAwesomeIcon icon={faDev} />
                             </a>
                         </li>

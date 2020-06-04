@@ -23,10 +23,13 @@ class About extends Component {
                                 <p>When not chasing my daughter around outside, I enjoy a good book -- or seven, an Americano, and the company of my husband and dogs.</p>
                                 
                                 <div className="btns">
-                                    <a href="#" className="theme-btn"><FontAwesomeIcon icon={faLinkedin} size="1x"/></a>
-                                    <a href="#" className="theme-btn"><FontAwesomeIcon icon={faTwitter} size="1x"/></a>
-                                    <a href="#" className="theme-btn"><FontAwesomeIcon icon={faGithub} size="1x"/></a>
-                                    <a href="#" className="theme-btn"><FontAwesomeIcon icon={faDev} size="1x"/></a>
+                                    <a href="https://www.linkedin.com/in/sara-mccombs/" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faLinkedin} size="1x"/></a>
+
+                                    <a href="https://twitter.com/dino_momma" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faTwitter} size="1x"/></a>
+
+                                    <a href="https://github.com/saramccombs/" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faGithub} size="1x"/></a>
+
+                                    <a href="https://dev.to/saramccombs" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faDev} size="1x"/></a>
                                 </div>
                             </div>
                         </div>
