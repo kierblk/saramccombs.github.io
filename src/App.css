@@ -935,7 +935,8 @@ button:focus {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #000;
+  /* background: rgb(84, 81, 81); */
+  background: #60bca0;
   content: "";
   z-index: 99;
   display: flex;
@@ -956,7 +957,7 @@ button:focus {
     top: 0;
     width: 100%;
     height: 100%;
-    content: "Home";
+    content: "";
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -968,19 +969,19 @@ button:focus {
     transition: all .5s;
 }
 .header-style-1 .blog a:after{
-  content: "Blog";
+  content: "";
 }
 .header-style-1 .about a:after{
-  content: "About Me";
+  content: "";
 }
 .header-style-1 .service a:after{
-  content: "Service";
+  content: "";
 }
 .header-style-1 .portfolio a:after{
-  content: "Portfolio";
+  content: "";
 }
 .header-style-1 .contact a:after{
-  content: "Contact";
+  content: "";
 }
 .header-style-1 .home a:hover:after,
 .header-style-1 .about a:hover:after,
@@ -996,7 +997,7 @@ button:focus {
 .header-style-1 .portfolio a:hover:before,
 .header-style-1 .contact a:hover:before,
 .header-style-1 .blog a:hover:before{
-  opacity: .9;
+  opacity: .4;
 }
 .nav>li>a {
     padding: 0;
@@ -1256,6 +1257,7 @@ button:focus {
 }
 
 .hero-style-1 .slide-subtitle h4{
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   font-size: 1.2rem;
   font-weight: 400;
