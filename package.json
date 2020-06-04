@@ -1,5 +1,6 @@
 {
-  "name": "tumho",
+  "homepage": "http://saramccombs.github.io",
+  "name": "Sara-McCombs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +15,7 @@
     "@testing-library/user-event": "^7.2.1",
     "animate-css-grid": "^1.4.3",
     "bootstrap": "^4.4.1",
+    "gh-pages": "^3.0.0",
     "imagesloaded": "^4.1.4",
     "isotope-layout": "^3.0.6",
     "jquery": "^3.4.1",
@@ -34,6 +36,8 @@
     "styled-components": "^5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
