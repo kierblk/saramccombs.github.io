@@ -968,7 +968,7 @@ button:focus {
     transition: all .5s;
 }
 .header-style-1 .blog a:after{
-  content: "blog";
+  content: "Blog";
 }
 .header-style-1 .about a:after{
   content: "About Me";
@@ -980,7 +980,7 @@ button:focus {
   content: "Portfolio";
 }
 .header-style-1 .contact a:after{
-  content: "contact";
+  content: "Contact";
 }
 .header-style-1 .home a:hover:after,
 .header-style-1 .about a:hover:after,
