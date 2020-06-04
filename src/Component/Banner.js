@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { faAccessibleIcon, faGithub, faTwitter, faLinkedin, faDev } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faTwitter, faLinkedin, faDev } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Slides from '../Assets/Images/tudor-baciu-vc3iVL_znJ8-unsplash-me2.jpg';
 
@@ -10,7 +10,7 @@ class Banner extends Component {
                 <div className="hero-slider">
                     <div className="slide">
                         <div className="slider-image">
-                            <img src={Slides}/>
+                            <img src={Slides} alt=""/>
                         </div>
                         <div className="container">
                             <div className="row">
@@ -33,22 +33,22 @@ class Banner extends Component {
                 <div className="social-links">
                     <ul>
                         <li>
-                            <a href="https://www.linkedin.com/in/sara-mccombs/" target="_blank">
+                            <a href="https://www.linkedin.com/in/sara-mccombs/">
                                 <FontAwesomeIcon icon={faLinkedin} />
                             </a>
                         </li>
                         <li>
-                            <a href="https://twitter.com/dino_momma" target="_blank">
+                            <a href="https://twitter.com/dino_momma">
                                 <FontAwesomeIcon icon={faTwitter} />
                             </a>
                         </li>
                         <li>
-                            <a href="https://github.com/saramccombs/" target="_blank">
+                            <a href="https://github.com/saramccombs/">
                                 <FontAwesomeIcon icon={faGithub} />
                             </a>
                         </li>
                         <li>
-                            <a href="https://dev.to/saramccombs" target="_blank">
+                            <a href="https://dev.to/saramccombs">
                                 <FontAwesomeIcon icon={faDev} />
                             </a>
                         </li>
