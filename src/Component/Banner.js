@@ -29,7 +29,7 @@ class Banner extends Component {
                         </div>
                     </div>
                 </div>
-                <div className="copy"><p>Sara McCombs - Software Engineer</p></div>
+                <div className="copy"><p></p></div>
                 <div className="social-links">
                     <ul>
                         <li>

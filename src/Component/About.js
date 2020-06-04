@@ -21,8 +21,18 @@ class About extends Component {
                                 <p>I write blogs to share with others what I've learned, support and moderate online communities, and passionately advocate for diversity, inclusion, and accessibility.</p>
 
                                 <p>When not chasing my daughter around outside, I enjoy a good book -- or seven, an Americano, and the company of my husband and dogs.</p>
-                                
-                                <div className="btns">
+                                <br />
+                                <div className="hx-site-title">
+                                    <h2>Location</h2>
+                                </div>
+                                <p>Almost Heaven, West Virginia</p>
+                            </div>
+                        </div>
+                        <div className="col-xl-5 col-lg-5">
+                            <div className="hx-about-img">
+                                <img src={aboutImg}/>
+                            </div>
+                            <div className="btns text-center">
                                     <a href="https://www.linkedin.com/in/sara-mccombs/" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faLinkedin} size="1x"/></a>
 
                                     <a href="https://twitter.com/dino_momma" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faTwitter} size="1x"/></a>
@@ -31,12 +41,6 @@ class About extends Component {
 
                                     <a href="https://dev.to/saramccombs" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faDev} size="1x"/></a>
                                 </div>
-                            </div>
-                        </div>
-                        <div className="col-xl-5 col-lg-5">
-                            <div className="hx-about-img">
-                                <img src={aboutImg}/>
-                            </div>
                         </div>
                     </div>
                 </div>

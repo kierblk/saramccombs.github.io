@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { library } from '@fortawesome/fontawesome-svg-core';
-import { fab, faFacebookF, faTwitter, faInstagram, faPinterestP, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faAccessibleIcon, faGithub, faDev, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Logo from '../Assets/Images/logo.png';
 
@@ -21,36 +21,31 @@ class Footer extends Component {
                             <div className="footer-menu">
                                 <ul className="d-flex " >
                                     <li>
-                                        <a href="#">
-                                            <FontAwesomeIcon icon={faFacebookF} />
+                                        <a href="https://www.linkedin.com/in/sara-mccombs/" target="_blank">
+                                            <FontAwesomeIcon icon={faLinkedin} />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://twitter.com/dino_momma" target="_blank">
                                             <FontAwesomeIcon icon={faTwitter} />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
-                                            <FontAwesomeIcon icon={faInstagram} />
+                                        <a href="https://github.com/saramccombs/" target="_blank">
+                                            <FontAwesomeIcon icon={faGithub} />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
-                                            <FontAwesomeIcon icon={faPinterestP} />
+                                        <a href="https://dev.to/saramccombs" target="_blank">
+                                            <FontAwesomeIcon icon={faDev} />
                                         </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <FontAwesomeIcon icon={faYoutube} />
-                                        </a>    
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div className="col-12">
                             <div className="footer-sub">
-                                <p><i className="fa fa-copyright"></i>Copyright - 2020<span> Developed by AutWorks</span></p>
+                                <p><i className="fa fa-copyright"></i>Copyright - 2020<span> Sara McCombs</span></p>
                             </div>
                         </div>
                     </div>
