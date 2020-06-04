@@ -11,10 +11,10 @@ class Blog extends Component {
             <section id="blog" className="blog-section section-padding">
                 <div className="container">
                     <div className="col-l2">
-                        <div className="section-title section-title2 text-center">
-                            <span></span>
-                            <h2><a href="https://dev.to/saramccombs"><FontAwesomeIcon icon={faDev} size="1x"/></a> Blog Articles</h2>
+                        <div className="section-title section-title2">
+                            <h1 className="text-white">Publications</h1>
                         </div>
+                        <p>Here's a sampling of my writing adventures. For the most recent articles, please check out <a href="https://dev.to/saramccombs"><FontAwesomeIcon icon={faDev} size="2x"/></a> where I write almost exclusively.</p><br />
                     </div>
                     <div className="row">
                         <div className="col col-xs-12">
