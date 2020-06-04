@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { library } from '@fortawesome/fontawesome-svg-core';
-import { faAccessibleIcon, faGithub, faDev, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+// import { library } from '@fortawesome/fontawesome-svg-core';
+import { faGithub, faDev, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Logo from '../Assets/Images/logo.png';
 
@@ -13,7 +13,7 @@ class Footer extends Component {
                         <div className="col-12">
                             <div className="footer-image">
                                 <a href="index.html">
-                                    <img src={Logo}/>
+                                    <img src={Logo} alt=""/>
                                 </a>
                             </div>
                         </div>
@@ -21,22 +21,22 @@ class Footer extends Component {
                             <div className="footer-menu">
                                 <ul className="d-flex " >
                                     <li>
-                                        <a href="https://www.linkedin.com/in/sara-mccombs/" target="_blank">
+                                        <a href="https://www.linkedin.com/in/sara-mccombs/">
                                             <FontAwesomeIcon icon={faLinkedin} />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://twitter.com/dino_momma" target="_blank">
+                                        <a href="https://twitter.com/dino_momma">
                                             <FontAwesomeIcon icon={faTwitter} />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://github.com/saramccombs/" target="_blank">
+                                        <a href="https://github.com/saramccombs/">
                                             <FontAwesomeIcon icon={faGithub} />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://dev.to/saramccombs" target="_blank">
+                                        <a href="https://dev.to/saramccombs">
                                             <FontAwesomeIcon icon={faDev} />
                                         </a>
                                     </li>
