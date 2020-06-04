@@ -74,6 +74,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: #60bca0;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -84,6 +85,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
+  color: #438B8A;
 }
 
 img {
