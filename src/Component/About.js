@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { faAccessibleIcon, faGithub, faDev, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faDev, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import aboutImg from '../Assets/Images/Sara-1.png';
 
@@ -30,16 +30,16 @@ class About extends Component {
                         </div>
                         <div className="col-xl-5 col-lg-5">
                             <div className="hx-about-img">
-                                <img src={aboutImg}/>
+                                <img src={aboutImg} alt="Sara McCombs"/>
                             </div>
                             <div className="btns text-center">
-                                    <a href="https://www.linkedin.com/in/sara-mccombs/" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faLinkedin} size="1x"/></a>
+                                    <a href="https://www.linkedin.com/in/sara-mccombs/" className="theme-btn"><FontAwesomeIcon icon={faLinkedin} size="1x"/></a>
 
-                                    <a href="https://twitter.com/dino_momma" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faTwitter} size="1x"/></a>
+                                    <a href="https://twitter.com/dino_momma" className="theme-btn"><FontAwesomeIcon icon={faTwitter} size="1x"/></a>
 
-                                    <a href="https://github.com/saramccombs/" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faGithub} size="1x"/></a>
+                                    <a href="https://github.com/saramccombs/" className="theme-btn"><FontAwesomeIcon icon={faGithub} size="1x"/></a>
 
-                                    <a href="https://dev.to/saramccombs" target="_blank" className="theme-btn"><FontAwesomeIcon icon={faDev} size="1x"/></a>
+                                    <a href="https://dev.to/saramccombs" className="theme-btn"><FontAwesomeIcon icon={faDev} size="1x"/></a>
                                 </div>
                         </div>
                     </div>
