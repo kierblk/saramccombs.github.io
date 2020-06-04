@@ -14,7 +14,7 @@ TABLE OF CONTENTS:
 0.4  hero-style-1
 0.5  about-area
 0.6  service-area
-0.7  protfolio-section
+0.7  portfolio-section
 0.8  testimonial-area
 0.9  pricing-section
 1.0  blog-section
@@ -925,7 +925,7 @@ button:focus {
 .header-style-1 .home a:before,
 .header-style-1 .about a:before,
 .header-style-1 .service a:before,
-.header-style-1 .protfolio a:before,
+.header-style-1 .portfolio a:before,
 .header-style-1 .contact a:before,
 .header-style-1 .blog a:before{
   position: absolute;
@@ -946,7 +946,7 @@ button:focus {
 .header-style-1 .home a:after,
 .header-style-1 .about a:after,
 .header-style-1 .service a:after,
-.header-style-1 .protfolio a:after,
+.header-style-1 .portfolio a:after,
 .header-style-1 .contact a:after,
 .header-style-1 .blog a:after{
     position: absolute;
@@ -974,8 +974,8 @@ button:focus {
 .header-style-1 .service a:after{
   content: "Service";
 }
-.header-style-1 .protfolio a:after{
-  content: "Protfolio";
+.header-style-1 .portfolio a:after{
+  content: "Portfolio";
 }
 .header-style-1 .contact a:after{
   content: "contact";
@@ -983,7 +983,7 @@ button:focus {
 .header-style-1 .home a:hover:after,
 .header-style-1 .about a:hover:after,
 .header-style-1 .service a:hover:after,
-.header-style-1 .protfolio a:hover:after,
+.header-style-1 .portfolio a:hover:after,
 .header-style-1 .contact a:hover:after,
 .header-style-1 .blog a:hover:after{
   opacity: 1;
@@ -991,7 +991,7 @@ button:focus {
 .header-style-1 .home a:hover:before,
 .header-style-1 .about a:hover:before,
 .header-style-1 .service a:hover:before,
-.header-style-1 .protfolio a:hover:before,
+.header-style-1 .portfolio a:hover:before,
 .header-style-1 .contact a:hover:before,
 .header-style-1 .blog a:hover:before{
   opacity: .9;
@@ -1619,7 +1619,7 @@ page loader
 }
 
 /*--------------------------------------------------------------
-0.7 protfolio-section
+0.7 portfolio-section
 --------------------------------------------------------------*/
 .gallery-section {
   padding-bottom: 70px;

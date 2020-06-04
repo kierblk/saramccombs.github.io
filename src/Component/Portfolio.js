@@ -82,7 +82,7 @@ class Porfolio extends Component {
         console.log(this.state.onWebDesign);
 
         return (
-            <section id="protfolio" className="gallery-section section-padding">
+            <section id="portfolio" className="gallery-section section-padding">
                 <div className="container">
                     <div className="row">
                         <div className="col col-xs-12 sortable-gallery">
